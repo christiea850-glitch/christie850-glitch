@@ -1,7 +1,7 @@
 ## 👋 Hi everyone, call me Christie!
 
 &nbsp;&nbsp;<sub><i>🎓 Graduate Student @ UCONN School of Business-Hartford Campus</i></sub><br>
-&nbsp;&nbsp;<sub><i>🪪IGR24005</i></sub><br>
+&nbsp;&nbsp;<sub><i>🪪 IGR24005</i></sub><br>
 &nbsp;&nbsp;<sub><i>📚 Program: Business Analytics & Project Management</i></sub>
 
 ## About Me
