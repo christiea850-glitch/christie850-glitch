@@ -1,8 +1,10 @@
-## 👋 Hi everyone, call me Christie!
+## 👋 Hi everyone, call me Christie!**
 
-&nbsp;&nbsp;<sub><i>🎓 Graduate Student @ UCONN School of Business-Hartford Campus</i></sub><br>
-&nbsp;&nbsp;<sub><i>🪪 IGR24005</i></sub><br>
-&nbsp;&nbsp;<sub><i>📚 Program: Business Analytics & Project Management</i></sub>
+🎓 *Graduate Student @ UCONN School of Business-Hartford Campus*
+🪪 *IGR24005*
+📚 *Program: Business Analytics & Project Management*
+
+--
 
 ## About Me
 This is my third semester in the MSBAPM program, hopefully to complete Spring 2027. I also work as a Cardiac Secretary at Hartford Healthcare. I'm excited for projects i will be embarking on with my team for this course and looking forward to meeting my team.
