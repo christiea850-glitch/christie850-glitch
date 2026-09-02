@@ -1,2 +1,4 @@
 # christiea850-glitch
-OPIM5512
+# Hi everyone, You can call Christie!
+Graduate Student @ UCONN School of Business-Hartford Campus
+Program: Business Analytics & Project Management
