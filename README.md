@@ -1,7 +1,7 @@
 ## 👋 Hi everyone, **call me Christie!**
 
-🎓 *Graduate Student, @ UCONN School of Business, Hartford Campus*
-🪪 *NETID: IGR24005*
+🎓 *Graduate Student, @ UCONN School of Business, Hartford Campus*  
+🪪 *NETID: IGR24005*  
 📚 *Program: Business Analytics & Project Management*
 
 ---
